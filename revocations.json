@@ -1,5 +1,5 @@
 {
   "format": "SHAGHAF_REVOCATIONS",
-  "data": "{\"v\":1,\"seq\":1,\"updatedAt\":\"2026-11-18T16:54:12.327Z\",\"revoked\":[]}",
-  "sig": "B0TsIzHi0DFqrSjKBvjr50M7RjP2cibbLDKhpJP7GtMXOCoYtcR-I9VPfoVTsDJv9zDxDSGU3RlYHydQ1XKgUQ"
+  "data": "{\"v\":1,\"seq\":3,\"updatedAt\":\"2026-11-19T16:03:37.386Z\",\"revoked\":[]}",
+  "sig": "l0VAeEOdJTw_lMwD9AXRo26iD7fVwCdlxPbuGeBGY5rs5hz6xAWMfWw7P5x_J7Mvwz9Rer6GGFGnPgs6dXofIQ"
 }
